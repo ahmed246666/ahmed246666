@@ -19,7 +19,3 @@ Hi there 👋 ! I am a Frontend Developer specializing in React.js and Next.js. 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ahmed246666&icon=2&color=0)](https://visitcount.itsvg.in)
-# 💻 My Previous Account's Commits:
-![My Previous commits](https://firebasestorage.googleapis.com/v0/b/aoe-24.appspot.com/o/images%2FScreenshot%202024-07-30%20125452.png?alt=media&token=68f3e0b5-2aa7-4594-9c0b-6d12ff10ebfb)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
